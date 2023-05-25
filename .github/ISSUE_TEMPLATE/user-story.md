@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: 'Issues to be detailed in project '
+about: Agile Project User Story
 title: ''
 labels: ''
 assignees: ''
