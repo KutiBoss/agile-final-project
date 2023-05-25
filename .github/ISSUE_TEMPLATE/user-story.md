@@ -1,5 +1,5 @@
 ---
-name: this are the issues I will work on
+name: User Story
 about: 'Issues to be detailed in project '
 title: ''
 labels: ''
@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-This is a template that would guide the scrum master and product owner as they create new issues for this project:
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
